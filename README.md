@@ -3,7 +3,7 @@
 <img alt="" src="https://www.devuty.altervista.org/gh/run_shell_scripts/run_sh_logo.png" align="left">
 </picture>
 
-# Run_sh
+# Run Shell Scripts
 
 ### _Python application to launch shell scripts organized by folders from a GUI_
 <br>
@@ -16,13 +16,14 @@
 ## Application files
 | File | Description |
 | --- | --- |
-| dist/run_sh               | Executable application file  |
-| run_sh.py                 | Source |
-| run_sh.png                | Icon |
-| support/run_sh.desktop    | Used to launch applications in Linux |
-| .init                     | File created for storing window position and size |
-| lastdir.txt               | File created for storing last folder used |
-| favdir.txt                | File created for storing favorite folders |
+| dist/run_shell_scripts                | Linux executable application file  |
+| dist/run_shell_scripts                | Windows 10(+) executable application file  |
+| run_shell_scripts.py                  | Source |
+| run_sh.png                            | Icon |
+| support/run_shell_scripts.desktop     | Linux launch applications |
+| .init                                 | File created for storing window position and size |
+| lastdir.txt                           | File created for storing last folder used |
+| favdir.txt                            | File created for storing favorite folders |
 
 ## Installation
 Copy the executable file to any folder dedicated to it. In this folder the configuration files `.init`, `lastdir.txt`, `favdir.txt` will be stored.<br>
