@@ -70,12 +70,12 @@ Clearly everyone can organize his scripts in the way he finds most comfortable.
 <br><br><br><br><br><br><br><br><br>
 
 <img align="left" src="https://www.devuty.altervista.org/gh/run_shell_scripts/app_run_sh_workon.png">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 &nbsp;&nbsp;&nbsp;The selected folder will be shown in the label
 <br><br><br><br><br><br><br><br>
 
 <img align="left" src="https://www.devuty.altervista.org/gh/run_shell_scripts/app_run_sh_combo.png">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 &nbsp;&nbsp;&nbsp;And in combo select too, list where you can select your favorite folder
 <br><br><br><br><br><br>
 
