@@ -33,7 +33,7 @@ Create your own [Desktop Entry], I've included one I used in Manjaro distro.
 ## Getting Started
 Opening the application will place itself on its startup folder.
 Select the folder containing the scripts to run.<br>
-A launch button will be created for each `.sh` file.
+A launch button will be created for each `.sh/.bat` file.
 Just click the button to start the script.<br>
 Add the selected folder to your favorites for quick access.<br>
 It might be convenient to group the scripts in folders by type of work.
