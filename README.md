@@ -1,6 +1,6 @@
 
 <picture>
-<img alt="" src="https://www.devuty.altervista.org/gh/run_shell_scripts/run_sh_logo.png" align="left">
+<img alt="" src="https://www.devuty.altervista.org/gh/run_shell_scripts/run_sh_logos.png" align="left">
 </picture>
 
 # Run Shell Scripts
